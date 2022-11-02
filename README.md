@@ -16,7 +16,6 @@ The program computes date of observation, tray ID, pot position (plant ID) and n
 
 ## Workflow
 
-<img src="example_pictures/workflow_image_analysis.jpg" style=" width:500px ; height:339.8px "  >
 <img src="example_pictures/workflow_image_analysis.svg" style=" width:500px ; height:339.8px "  >
 
 Code can be run via shell script from every OS. We specified the working directory to be the folder in which the analyzed images are stored. Code is commented in detail. Main script is "countgreen_master", which accesses the specific method scripts. Careful, running the shell script overwrites the existing files in the image folders!
