@@ -16,7 +16,7 @@ The program computes date of observation, tray ID, pot position (plant ID) and n
 
 ## Workflow
 
-![Workflow](/automated_image_analysis/blob/main/example_pictures/workflow_image_analysis.jpg?raw=false "Workflow")
+![Workflow](/automated_image_analysis/blob/main/example_pictures/workflow_image_analysis.jpg?raw=true "Workflow")
 
 <img src="/automated_image_analysis/blob/main/example_pictures/workflow_image_analysis.jpg" alt="Workflow" title="Workflow">
 
