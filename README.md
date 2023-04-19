@@ -26,5 +26,5 @@ Example pictures include day specific images as well as pot positions (slightly 
 
 Base script: https://github.com/MoisesExpositoAlonso/hippo
 
-Scientific paper: in preparation
+Scientific paper: submitted
 
